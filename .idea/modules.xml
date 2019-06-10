@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ECG_SINGAL.iml" filepath="$PROJECT_DIR$/.idea/ECG_SINGAL.iml" />
+      <module fileurl="file://C:\Software\IDE\Pycharm\MyProject\TwitterFaceBook\.idea\TwitterFaceBook.iml" filepath="C:\Software\IDE\Pycharm\MyProject\TwitterFaceBook\.idea\TwitterFaceBook.iml" />
+    </modules>
+  </component>
+</project>
